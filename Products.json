@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Bateria Pearl",
+        "description": "Bateria viajera",
+        "code": "P001",
+        "price": 10,
+        "status": true,
+        "stock": 10000,
+        "category": "Baterias"
+        
+    },
+    {
+        "id": 2,
+        "title": "Platillos Paiste",
+        "description": "Set de PLatillos Paiste 2002",
+        "code": "P002",
+        "price": 20,
+        "status": true,
+        "stock": 50,
+        "category": "Platillos"
+        
+    }
+]
